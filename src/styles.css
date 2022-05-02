@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  widows: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #abc;
+  font-size: 30px;
+}
+
+button{
+  height: 10vh;
+  width: 10vh;
+}
